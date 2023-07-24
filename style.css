@@ -1,47 +1,5 @@
 /* This block of CSS code styles a header icon element */
 .bpw-header-icon {
-  /* Remove border */
-  border: none;
-  /* Remove background color */
-  background: none;
-  /* Remove padding */
-  padding: 0;
-  /* Remove margin */
-  margin: 0;
-  /* Set text color to a variable named shark */
-  color: var(--shark);
-  /* Set line-height to zero */
-  line-height: 0;
-  /* Set left margin to a variable named spacing-large */
-  margin-left: var(--spacing-large);
-  /* Align text to the right */
-  text-align: right;
-  /* Align element vertically in the middle */
-  vertical-align: middle;
-  /* Set cursor to a pointer */
-  cursor: pointer;
-  /* Set fill color to a variable named shark */
-  fill: var(--shark);
-  /* Set width to 16 pixels */
-  width: 16px;
-  /* Set height to 16 pixels */
-  height: 16px;
-  /* Set fill transition duration to 0.3 seconds */
-  transition: fill 0.3s;
+  color: red
 }
  
-/* Apply the same fill color and fill transition to the icon's SVG and path elements */
-.bpw-header-icon svg,
-.bpw-header-icon svg path {
-  /* Set fill color to a variable named shark */
-  fill: var(--shark);
-  /* Set fill transition duration to 0.3 seconds */
-  transition: fill 0.3s;
-}
- 
-/* When the icon is hovered over, change the fill color to a variable named reef for the icon, SVG and path elements */
-.bpw-header-icon:hover,
-.bpw-header-icon:hover svg,
-.bpw-header-icon:hover svg path {
-  fill: var(--reef);
-}
