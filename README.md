@@ -6,8 +6,8 @@ Software Engineer & Full-Stack developer
 
 Innovative Artificial Intelligence Engineer with 10+ years of experience in application design, development, testing, and deployment. Highly experienced in writing codes and algorithms as well as building complex neural networks through various programming languages. Possess an unbridled passion for Artificial Intelligence with comprehensive knowledge of machine learning concepts and other related technologies. Unmatched abilities to identify, understand, and translate program requirements into sustainable, advanced technical solutions through C#, C++, JavaScript, Python, and other programs for continuous improvement of AI technologies. I am also a highly skilled and experienced senior full-stack developer with a proven track record of delivering robust and scalable web applications.
 
-* 🌍  I'm based in Fredericton, Canada
-* ✉️  You can contact me at [athenesaint@gmail.com](mailto:athenesaint@gmail.com)
+* 🌍  I'm based in Florida, United States
+* ✉️  You can contact me at [bigmoon202@gmail.com](mailto:bigmoon202@gmail.com)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on Projects
 
